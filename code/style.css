@@ -1,0 +1,58 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  background-image: url(./Pizza.jpg);
+  background-size: cover;
+  height: 400px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 80px;
+  padding-left: 150px;
+}
+
+h1 {
+  font-family: "Special Elite", cursive;
+  color: white;
+  font-size: 4.5rem;
+  max-width: 35rem;
+}
+
+#order-button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 40px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.3rem;
+  border-radius: 30px;
+  padding: 15px;
+  color: white;
+  background-color: teal;
+}
+
+p {
+  font-family: 'Roboto Slab', serif;
+  margin: 30px auto;
+  font-size: 1.8rem;
+  max-width: 27rem;
+}
+
+footer {
+  height: 50px;
+  background-color: teal;
+  color: white;
+  font-family: 'Roboto Slab', serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: auto;
+}
