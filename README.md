@@ -1,7 +1,9 @@
-# Build a Pizza Bot
+# Pizza Bot
 
 https://gracious-lalande-0510f7.netlify.com/code/
 
-Week 4 of Technigo's Bootcamp
+A mob-programming project, building a pizza bot to order pizza. We wanted to create a bot that could order pizza, calculate the price and cooking time.
 
-A mob-programming project, building a pizza bot in JavaScript to order pizza. The assignment was to create a bot that you could order pizza, calculate the price and a cooking time. 
+Built in JavaScript
+
+(This is just an exercise, unfortanutely it doesn't really order pizza for you...)
